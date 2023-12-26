@@ -9,7 +9,10 @@
     "name": "Paytable",
     "path": "folders/Objects/Paytable.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oPaytableFather",
+    "path": "objects/oPaytableFather/oPaytableFather.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

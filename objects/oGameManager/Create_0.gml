@@ -1,0 +1,13 @@
+global.current_bet_value_index = 0;
+global.bet_value[0] = 1;
+global.bet_value[1] = 2;
+global.bet_value[2] = 3;
+global.bet_value[3] = 4;
+global.bet_value[4] = 5;
+global.bet_value[5] = 10;
+global.bet_value[6] = 20;
+global.bet_value[7] = 30;
+global.denom_value[0] = 0.25;
+global.denom_value[1] = 0.50;
+global.denom_value[2] = 1.00;
+global.denom_value[3] = 1.50;

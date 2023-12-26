@@ -6,10 +6,13 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "cardlabel",
+    "path": "folders/Objects/cardlabel.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oCardLabelFather",
+    "path": "objects/oCardLabelFather/oCardLabelFather.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

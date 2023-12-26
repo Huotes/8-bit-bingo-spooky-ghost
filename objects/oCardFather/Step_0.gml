@@ -1,14 +1,1 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
-
-
-
-
-
-
-
-
-
-
+padded_cells_number = string(random_number < 10 ? "0" + string(random_number) : string(random_number));
