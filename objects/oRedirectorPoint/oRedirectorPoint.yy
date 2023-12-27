@@ -33,5 +33,5 @@
     "path": "sprites/sRedirectorPoint/sRedirectorPoint.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
