@@ -6,10 +6,13 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "bombo",
+    "path": "folders/Objects/bombo.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oBomboFather",
+    "path": "objects/oBomboFather/oBomboFather.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
